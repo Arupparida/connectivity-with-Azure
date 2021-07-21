@@ -3,6 +3,7 @@
 ## connect to Raspberry pie to Azure iot hub.
 
 - Step 1
+
 Installing important packages needed to connect to Azure IOT hub using Python on the raspberry pi.
 
 sudo pip3 install azure-iot-device
