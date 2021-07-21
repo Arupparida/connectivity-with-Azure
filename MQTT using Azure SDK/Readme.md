@@ -7,9 +7,13 @@
 / Installing important packages needed to connect to Azure IOT hub using Python on the raspberry pi.
 
 sudo pip3 install azure-iot-device
+
 sudo pip3 install azure-iot-hub
+
 sudo pip3 install azure-iothub-service-client
+
 sudo pip3 install azure-iothub-device-client 
+
 
 All these packages may not necessarily be required to get the telemetry on the azure but it is recommended for no error issue.
 
