@@ -2,6 +2,8 @@
 
 Link: [Azure MQTT support Documentation](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-mqtt-support)
 
+Link: [self Google Docs](https://drive.google.com/file/d/1NsohXnbsvP5WMzvbGOA4YtWDmskhtmVb/view?usp=sharing)
+
 ## Using the MQTT protocol directly (as a device)
 
 A device can connect to Azure IOT hub directly without using SDKs by connecting  to the public device endpoints using the MQTT protocol on port 8883.
