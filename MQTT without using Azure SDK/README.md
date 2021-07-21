@@ -1,6 +1,6 @@
 # Azure Documentation 
 
-Link: [Azure MQTT DOCUMENTATION](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-mqtt-support)
+Link: [Azure MQTT support Documentation](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-mqtt-support)
 
 ## Using the MQTT protocol directly (as a device)
 
