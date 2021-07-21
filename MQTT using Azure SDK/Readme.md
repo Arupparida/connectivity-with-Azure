@@ -59,5 +59,13 @@ Cmd : az iot hub monitor-events --hub-name iotrial --device-id Testberry
 Replace Testberry with your device id.
 
 
+Benefits of using Azure IOT SDKs
+
+The device SDKs helps in enabling the connected device to exchange messages with the Azure IOT hub. The device SDKs use the standard IoT Hub connection string to establish a connection to an IoT hub. Device SDKs  supports the MQTT protocol  available for Java, Node.js, C, C#, and Python. 
+
+Now there are certain parameter that has to be set to use the MQTT protocol using the azure IOT device SDKs.
+- The client protocol parameter must be set to MQTT.
+- You can also specify MQTT over Web Sockets in the client protocol parameter.
+By default, the device SDKs connect to an IoT Hub with the CleanSession flag set to 0 and use QoS 1 for message exchange with the IoT hub. It can also be changed to Qos 0.
 
 
