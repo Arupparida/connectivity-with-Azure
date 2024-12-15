@@ -41,6 +41,7 @@ Now click on the “IOT devices” tab in the explorer section of IOT hub.
 Select New to add a device in your IoT hub.
 In Create a device, provide a name for your new device and select Save.
 Once the  device is created, click on the device name in the IoT devices pane. Copy the Primary Connection String. This connection string is used by device code to communicate with the hub.
+ 
  Step 3
 Configure Raspberry pi and Azure for connection
 Write python code(code that generates sample sensor data) to run on the azure CLI. 
